@@ -771,7 +771,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 346.0, 70.5, 187.0, 25.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 346.0, 70.5, 187.0, 25.0 ],
+					"presentation_rect" : [ 786.810124158859253, 8.620261430740356, 187.0, 25.0 ],
 					"text" : "start and stop the transport"
 				}
 
@@ -786,7 +786,7 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 326.0, 73.0, 20.0, 20.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 326.0, 73.0, 20.0, 20.0 ]
+					"presentation_rect" : [ 761.746833086013794, 8.443038821220398, 20.0, 20.0 ]
 				}
 
 			}
@@ -992,7 +992,7 @@
 					"offset" : [ 0.0, 0.0 ],
 					"patching_rect" : [ 540.0, 70.5, 160.0, 30.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 540.0, 70.5, 160.0, 30.0 ],
+					"presentation_rect" : [ 796.0, 42.620261430740356, 160.0, 30.0 ],
 					"viewvisibility" : 1
 				}
 
